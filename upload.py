@@ -4,9 +4,14 @@ import shutil
 from datetime import datetime
 
 s3 = boto3.client('s3')
-bucket_name = 'mgg-so-ueia-2024'  
+bucket_name = os.getenv('BUCKET_NAME')
 
-local_directory = './stored_files'  
+local_directory = os.getenv('LOCAL_PATH')
+
+# Ensure the directory exists
+if not os.path.exists(local_directory):
+    os.makedirs(local_directory)
+    print(f"Directory {local_directory} created.")
 
 # Function to upload files to S3
 def upload_to_s3(file_path):
@@ -19,6 +24,7 @@ def upload_to_s3(file_path):
 
 # Function to delete local JSON files
 def delete_local_files():
+    # List all files in the directory
     for filename in os.listdir(local_directory):
         if filename.endswith(".json"):
             file_path = os.path.join(local_directory, filename)
