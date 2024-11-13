@@ -1,0 +1,882 @@
+---- Cron Job Start ----
+Tue Nov 12 07:06:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:07:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:08:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:09:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:10:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:11:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:12:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:13:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:14:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:15:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:16:01 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:17:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:18:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:19:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:20:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:21:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:22:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:23:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:24:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:25:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:26:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:27:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:28:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:29:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:30:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:31:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:32:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:33:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:34:01 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:35:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:36:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:37:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:38:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:39:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:43:11 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:44:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:45:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:46:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:47:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:48:01 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:49:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:50:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:51:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:52:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:53:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:54:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:55:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:56:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:57:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:58:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 07:59:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 08:00:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 08:01:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 08:02:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 3
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 08:03:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 4
+Backup script has already run 4 times, resetting counter.
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 08:04:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Counter file not found, creating...
+Current count: 0
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 08:05:01 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 1
+Hello, World!
+---- Cron Job End ----
+---- Cron Job Start ----
+Tue Nov 12 08:06:00 -05 2024
+Environment Variables:
+SHELL=/bin/sh
+USER=mary
+PATH=/usr/bin:/bin
+PWD=/Users/mary
+HOME=/Users/mary
+SHLVL=2
+LOGNAME=mary
+_=/usr/bin/env
+Starting counter file check...
+Current count: 2
+Hello, World!
+---- Cron Job End ----
